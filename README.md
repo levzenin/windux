@@ -5,3 +5,4 @@ This application modifies Windows appereance in a friendly way - without changin
 - Registry Hooks
 - MUI Hooks
 - Overlay - Windows
+Code is now private, but, will be available after a few modification and updates
